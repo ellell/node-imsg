@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ellell/node-imsg.git"
+  },
   "author": "Lisa Övermyr <lisa.overmyr@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "applescript": "~0.2.1"
-  }
+  },
+   "bugs": {
+    "url": "https://github.com/ellell/node-imsg/issues"
+  },
+  "homepage": "https://github.com/ellell/node-imsg"
 }
