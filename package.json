@@ -1,0 +1,14 @@
+{
+  "name": "node-imsg",
+  "version": "0.0.1",
+  "description": "Send iMessages with node and AppleScript",
+  "main": "imsg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisa Övermyr <lisa.overmyr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "applescript": "~0.2.1"
+  }
+}
