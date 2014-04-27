@@ -1,5 +1,5 @@
 {
-  "name": "node-imsg",
+  "name": "imsg",
   "version": "0.0.1",
   "description": "Send iMessages with node and AppleScript",
   "main": "imsg.js",

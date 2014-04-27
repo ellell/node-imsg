@@ -1,6 +1,6 @@
 # node-imsg
 
-Send iMessages from terminal
+Send iMessages with node and AppleScript
 
 ## Example
 
